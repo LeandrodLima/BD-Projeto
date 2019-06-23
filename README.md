@@ -2,6 +2,7 @@
 
 Grupo 6
 1-Liste a quantidade de quartos agrupados pelo seu tipo.
+
 2-Liste os clientes por ordem crescente do valor total produtos consumidos no hotel.
 3-Quais os funcionários que mantêm mais que 3 quartos? Ordene-os pela data de nascimento.
 4-Quais os clientes que possuem telefones que começam com (21)44.... e o número de dependentes menor que 2?
